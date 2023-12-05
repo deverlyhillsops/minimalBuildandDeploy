@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "clDrenK3JBYqcUfAOUTPwhVCdDvS4o8p91y3V5jwyb8roCdbxPkv9sYMRgW0ZKo/65Tm+PaOSeJ0gQyOYL68sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marc.hartley\\source\\repos\\minimalBuildandDeploy\\helloworldAPI\\helloworldAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marc.hartley\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
